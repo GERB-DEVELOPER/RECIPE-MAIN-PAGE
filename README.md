@@ -1,5 +1,7 @@
 # Frontend Mentor - Recipe page
-
+## Tecnologías
+- HTML5
+- CSS3
 ![Design preview for the Recipe page coding challenge](./preview.jpg)
 
 ## Welcome! 👋
